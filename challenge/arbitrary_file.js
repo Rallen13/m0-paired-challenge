@@ -7,9 +7,9 @@ var checkedOut = true;
 //declares a variable assigned to a boolean
 var librarianName = "Rachel";
 //declares the variable assigned to the string
-var numTotalBooks = "100000";
+var numTotalBooks = 100000;
 //declares the variable assigned to a number
-var numCheckedOutBooks = "25000";
+var numCheckedOutBooks = 25000;
 //declares the variable assigned to a number
 
 var genres = ["Fiction", "Non-Fiction"];
