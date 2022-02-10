@@ -9,5 +9,5 @@ var = date 020922;
 var dogName = "Kayuh";
 //this is my dogs name
 
-var genres = ["Fiction", "Non-Fiction"]];
+var genres = ["Fiction", "Non-Fiction"];
 // assigned book genres to an array
