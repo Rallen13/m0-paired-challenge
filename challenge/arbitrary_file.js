@@ -1,4 +1,4 @@
-I chose arbitrary file because there was no file name provided.
+//I chose arbitrary file because there was no file name provided.
 var = email "Rallenco13@gmail.com";
 //declares a variable assigned to the string
 var = age 36;
@@ -9,7 +9,7 @@ var = name "Rachel";
 //declares the variable assigned to the string
 var = date "020922";
 //this is the date
-var dogName = "Kayuh";
+var = dogName "Kayuh";
 //this is my dogs name
 
 var genres = ["Fiction", "Non-Fiction"];
